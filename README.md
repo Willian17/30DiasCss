@@ -13,7 +13,7 @@
 
 <h1 align="center"> Desafio 30 dias de CSS </h3>
 
-<p align="center"><i>Serão 30 dias usando css, 1 de Janeiro  até 30 de Janeiro de 2021</i></p>
+<p align="center"><i> 30 dias usando CSS em projetos variados, 1 de Janeiro até 30 de Janeiro de 2021</i></p>
 
 <details>
 <summary>📖 Conteúdo</summary>
@@ -28,43 +28,12 @@
 * [➤ Licença](#licenca)
 </details>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#sobre-o-projeto)
-
-## :pushpin: Sobre o Projeto <a name="sobre"></a>
-<div>
-<img src="" width="400px">
-</div>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#executar)
-
-## :construction_worker: Como executar <a name="executar"></a>
-
-# Clone Repository
-$ git clone https://github.com/Willian17/30DiasCss.git
-
-# Instalar Dependencias
-$ yarn install 
-ou
-$ npm install
-
-# Executar Aplicação
-$ yarn start 
-ou 
-$ npm start
-
-
-
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](##tecnologias)
 
 ## :computer: Tecnologias <a name="tecnologias"></a>
 <ul>
-<li>Node.js</li>
-<li>Express.js</li>
-<li>Typescript</li>
-<li>React</li>
-<li>React Native</li>
-<li>Expo</li>
-
+<li>HTML 5</li>
+<li>Css</li>
 </ul>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
@@ -93,9 +62,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 Contribuições são sempre bem-vindas!
 
 1. Fork o Projeto
-2. Criar uma Branch (git checkout -b feature/AmazingFeature)
+2. Criar uma Branch (git checkout -b funcionalidade/navegar)
 3. Commit suas alterações (git commit -m 'Add some AmazingFeature)
-4. Push na Branch (git push origin feature/AmazingFeature)
+4. Push na Branch (git push origin funcionalidade/navegar)
 5. Abra um Pull Request
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#licensa)
