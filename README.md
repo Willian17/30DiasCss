@@ -61,7 +61,7 @@
   
   [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2001)
 
-  [Post LinkedIn](https://www.linkedin.com/posts/milenacarecho_30diascss-html5-css3-activity-6690824691449413632-7vau) 
+  [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6750831303878311936/) 
   
   ##### O que eu aprendi
 
