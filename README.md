@@ -13,20 +13,53 @@
 
 <h1 align="center"> Desafio 30 dias de CSS </h3>
 
-<p align="center"><i> 30 dias usando CSS em projetos variados, 1 de Janeiro até 30 de Janeiro de 2021</i></p>
+<p align="center"><i> 30 dias usando CSS em projetos variados, com propriedades específicas e avançadas</i></p>
 
 <details>
 <summary>📖 Conteúdo</summary>
 <br />
 
 * [➤ Sobre o projeto](#sobre)
-* [Funcionalidades e melhorias](#melhorias)
-* [➤ Como executar](#executar)
+* [➤ Desafios](#desafios)
 * [➤ Tecnologias](#tecnologias)
 * [➤ Colaboradores](#colaboradores)
 * [➤ Contribuidores](#contribuir)
 * [➤ Licença](#licenca)
 </details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+## :pushpin: Sobre o Projeto <a name="sobre"></a>
+<div>
+ 30 dias de CSS3 é um desafio que vou aceitar (e você também pode participar) a partir de 1 de Janeiro de 2021, que visa melhorar minhas habilidades em HTML5 e CSS3 através da realização de projetos 
+
+***Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não tem data de inicio fixa, cada um faz os seus 30 dias, eu ficarei honrado com sua participação 😉***
+
+## Regras gerais
+
+* Realizar um projeto por dia
+* Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
+* O projeto deve ser concluído até 23:59
+
+#### Referencias do projeto
+[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
+[Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
+[DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
+[MilenaCarecho](https://github.com/MilenaCarecho/30diasDeCSS)
+[IamThiago-IT](https://github.com/IamThiago-IT/30_Dias_de_CSS)
+
+* [Dia 01 - Ícone de mídia social em camadas](#dia01)
+
+</div>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+## :arrow_down_small: Desafios <a name="desafios"></a>
+<div>
+  
+  ### Dia 01 - Ícone de mídia social em camadas <a name="dia01"></a>
+  ![Dia 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
+  
+</div>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](##tecnologias)
 
