@@ -59,7 +59,7 @@
   ### Dia 01 - Ícone de mídia social em camadas <a name="dia01"></a>
   ![Dia 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
   
-  [Meu codigo](https://github.com/Willian17/30diasCSS/tree/master/Desafios/Dia%2001)
+  [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2001)
 
   [Post LinkedIn](https://www.linkedin.com/posts/milenacarecho_30diascss-html5-css3-activity-6690824691449413632-7vau) 
   
