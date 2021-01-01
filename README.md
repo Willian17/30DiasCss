@@ -23,7 +23,7 @@
 * [➤ Desafios](#desafios)
 * [➤ Tecnologias](#tecnologias)
 * [➤ Colaboradores](#colaboradores)
-* [➤ Contribuidores](#contribuir)
+* [➤ Como contribuir](#contribuir)
 * [➤ Licença](#licenca)
 </details>
 
