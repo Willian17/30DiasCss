@@ -27,7 +27,7 @@
 * [➤ Licença](#licenca)
 </details>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 ## :pushpin: Sobre o Projeto <a name="sobre"></a>
 <div>
@@ -52,7 +52,7 @@
 
 </div>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 ## :arrow_down_small: Desafios <a name="desafios"></a>
 <div>
   
