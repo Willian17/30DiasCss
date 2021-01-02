@@ -49,7 +49,7 @@
 [IamThiago-IT](https://github.com/IamThiago-IT/30_Dias_de_CSS)
 
 * [Dia 01 - Ícone de mídia social em camadas](#dia01)
-* [Dia 02 - Botões animados Neon](#dia01)
+* [Dia 02 - Botões animados Neon](#dia02)
 
 </div>
 
