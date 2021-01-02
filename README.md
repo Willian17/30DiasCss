@@ -49,7 +49,7 @@
 [IamThiago-IT](https://github.com/IamThiago-IT/30_Dias_de_CSS)
 
 * [Dia 01 - Ícone de mídia social em camadas](#dia01)
-* [Dia 02 - Botões animados Neon](#dia02)
+* [Dia 02 - Botão animado Neon](#dia02)
 
 </div>
 
@@ -86,11 +86,12 @@
 
 
 * *Criar as camadas utilizando a tag `<span>`*
-* *[Transições CSS](https://www.w3schools.com/css/css3_transitions.asp)*
-* *[Opacidade / transparência do CSS](https://www.w3schools.com/css/css_image_transparency.asp)*
 * *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
 * *Criar KeyFrames (animando um elemento)*
+* *Animation*
+* *Linear Gradient*
+* *Box Shadow*
   
 </div>
 
