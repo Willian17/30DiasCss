@@ -73,8 +73,9 @@
 * *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
 
- ### Dia 01 - Botão animado Neon<a name="dia02"></a>
-  ![Dia 02](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
+ ### Dia 02 - Botão animado Neon<a name="dia02"></a>
+ 
+ <img src='https://j.gifs.com/YW1KL0.gif'></img>
   
   [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2001)
 
