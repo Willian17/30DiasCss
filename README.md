@@ -100,7 +100,7 @@
   
   [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2003)
 
-  [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6750831303878311936/) 
+  [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6751566035834417152/) 
   
   ##### O que eu aprendi
 
