@@ -50,6 +50,7 @@
 
 * [Dia 01 - Ícone de mídia social em camadas](#dia01)
 * [Dia 02 - Botão animado Neon](#dia02)
+* [Dia 03 - Olhos que segue o mouse](#dia03)
 
 </div>
 
@@ -93,6 +94,24 @@
 * *Linear Gradient*
 * *Box Shadow*
   
+ ### Dia 03 - Olhos que segue o mouse<a name="dia03"></a>
+ 
+ <img src='https://j.gifs.com/jZzDyW.gif'></img>
+  
+  [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2003)
+
+  [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6750831303878311936/) 
+  
+  ##### O que eu aprendi
+
+
+* *Criar as camadas utilizando a tag `<span>`*
+* *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *Criar KeyFrames (animando um elemento)*
+* *Animation*
+* *Linear Gradient*
+* *Box Shadow*
 </div>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](##tecnologias)
