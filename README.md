@@ -81,7 +81,7 @@
   
   [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2002)
 
-  [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6750831303878311936/) 
+  [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6751185583567060992/) 
   
   ##### O que eu aprendi
 
@@ -105,13 +105,11 @@
   ##### O que eu aprendi
 
 
-* *Criar as camadas utilizando a tag `<span>`*
 * *[hover](https://www.w3schools.com/cssref/sel_hover.asp)*
-* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
-* *Criar KeyFrames (animando um elemento)*
-* *Animation*
-* *Linear Gradient*
-* *Box Shadow*
+* *[Transições CSS](https://www.w3schools.com/css/css3_transitions.asp)*
+* *Before*
+* *Border Radius*
+* *Translate*
 </div>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](##tecnologias)
