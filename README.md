@@ -117,7 +117,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 
 [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2004)
 
-[Post LinkedIn]()
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6751828438295814144/)
 
 ##### O que eu aprendi
 
