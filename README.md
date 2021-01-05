@@ -52,6 +52,7 @@
 * [Dia 02 - Botão animado Neon](#dia02)
 * [Dia 03 - Olhos que segue o mouse](#dia03)
 * [Dia 04 -Efeito pulsar](#dia04)
+* [Dia 05 -Efeito lightning text](#dia05)
 
 </div>
 
@@ -123,6 +124,21 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+
+##  Desafio dia 05 - Efeito lightning text <a name="dia05"></a>
+![dia 05](https://user-images.githubusercontent.com/37448340/88449709-5d216880-ce1f-11ea-924b-18acde214ce9.gif)
+
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2005)
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[Text-Shadow](https://www.w3schools.com/cssref/css3_pr_text-shadow.asp)*
+
 
 </div>
 
