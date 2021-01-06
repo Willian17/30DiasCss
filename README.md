@@ -66,7 +66,7 @@
   
   [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2001)
 
-  [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6750831303878311936/) 
+  [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6750831303878311936-HUUl) 
   
   ##### O que eu aprendi
 
@@ -84,7 +84,7 @@
   
   [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2002)
 
-  [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6751185583567060992/) 
+  [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6751185583567060992-LQeR) 
   
   ##### O que eu aprendi
 
@@ -103,7 +103,7 @@
   
   [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2003)
 
-  [Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6751566035834417152/) 
+  [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6751566035834417152-DJ8Q) 
   
   ##### O que eu aprendi
 
@@ -119,7 +119,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 
 [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2004)
 
-[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6751828438295814144/)
+[Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6751828438295814144-5RCI)
 
 ##### O que eu aprendi
 
@@ -145,7 +145,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 
 [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2006)
 
-[Post LinkedIn]()
+[Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6752714999006801920-_T2U)
 
 ##### O que eu aprendi
 
