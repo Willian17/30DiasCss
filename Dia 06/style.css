@@ -1,0 +1,103 @@
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+
+html{
+    min-height: 100%;
+    overflow: hidden;
+}
+
+body{
+    height: calc(100vh - 8rem);
+    padding: 4em;
+    color: #ffffffbf;
+    font-family: 'Anonymous Pro', monospace;
+    background-color: #191919;
+}
+
+.line-1{
+    position: relative;
+    top: 50%;
+    width: 24em;
+    margin: 5px auto;
+    border-right: 2px solid #ffffffbf;
+    font-size: 180%;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    transform: translateY(-50%);
+}
+
+
+.anim-typewriter{
+    animation: name duration timing-function delay iteration-count direction fill-mode;
+    animation: typewriter 4s steps(44) 1s 1 normal both, 
+    blinkTextCursor 500ms steps(44) infinite normal ;
+}
+.line-1 .caracter{
+    padding: 0;
+    margin: 0;
+    color: #484848;
+    font-size: 2.5rem;
+    letter-spacing: 5px;
+    animation: name duration timing-function delay iteration-count direction fill-mode;
+    animation: light 1.2s linear infinite;
+}
+
+@keyframes typewriter{
+    from{width: 0;}
+    to{width: 24em;}
+}
+
+@keyframes blinkTextCursor{
+    from{border-right-color: ffffffbf;}
+    to{border-right-color: transparent;}
+}
+
+@keyframes light{
+    0%,90%{ 
+        color: #484848;
+        text-shadow: none;
+    }
+    100%{
+        color: #09ff00;
+        text-shadow: 0 0 7px #09ff00, 
+        0 0 50px #00ff2a;
+    }
+}
+
+.line-1 span:nth-child(1){
+    animation-delay: 4.1s;
+}
+.line-1 span:nth-child(2){
+    animation-delay: 4.2s;
+}
+.line-1 span:nth-child(3){
+    animation-delay: 4.3s;
+}
+.line-1 span:nth-child(4){
+    animation-delay: 4.4s;
+}
+.line-1 span:nth-child(5){
+    animation-delay: 4.5s;
+}
+.line-1 span:nth-child(6){
+    animation-delay: 4.6s;
+}
+.line-1 span:nth-child(7){
+    animation-delay: 4.7s;
+}
+.line-1 span:nth-child(8){
+    animation-delay: 4.8s;
+}
+.line-1 span:nth-child(9){
+    animation-delay: 4.9s;
+}
+.line-1 span:nth-child(10){
+    animation-delay: 5s;
+}
+.line-1 span:nth-child(11){
+    animation-delay: 5.1s;
+}
+.line-1 span:nth-child(12){
+    animation-delay: 5.2s;
+}
+
