@@ -161,6 +161,14 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2007)
 
 [Post LinkedIn]()
+
+##### O que eu aprendi
+
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[scale](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/scale())*
+
 </div>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](##tecnologias)
