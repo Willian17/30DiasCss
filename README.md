@@ -160,7 +160,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 
 [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2007)
 
-[Post LinkedIn]()
+[Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6753060332744269825-ri23)
 
 ##### O que eu aprendi
 
