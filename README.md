@@ -54,6 +54,7 @@
 * [Dia 04 -Efeito pulsar](#dia04)
 * [Dia 05 -Efeito lightning text](#dia05)
 * [Dia 06 -Máquina de Escrever](#dia06)
+* [Dia 07 -Coração batendo](#dia07)
 
 </div>
 
@@ -152,6 +153,22 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
 * *[Text-Shadow](https://www.w3schools.com/cssref/css3_pr_text-shadow.asp)*
+
+##  Desafio dia 07 - Coração batendo <a name="dia07"></a>
+![gif](https://user-images.githubusercontent.com/37448340/88534017-9c95b380-cfdd-11ea-9b54-b883fd9f9e77.gif)
+
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2007)
+
+[Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6753060332744269825-ri23)
+
+##### O que eu aprendi
+
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[scale](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/scale())*
+
 </div>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](##tecnologias)
