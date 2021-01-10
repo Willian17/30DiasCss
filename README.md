@@ -193,15 +193,15 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 
 [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2009)
 
-[Post LinkedIn]()
+[Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6753876876944519168-UA5g)
 
 ##### O que eu aprendi
 
-* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
-* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
-* *[Overflow](https://www.w3schools.com/css/css_overflow.asp)* 
-* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
-* *[z-index](https://www.w3schools.com/cssref/pr_pos_z-index.asp)*
+* rotateY ** 
+* backdrop-filter **
+* transform-style **
+* perspective **
+
 
 
 
