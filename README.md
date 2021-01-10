@@ -197,10 +197,10 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 
 ##### O que eu aprendi
 
-* rotateY *
-* backdrop-filter *
-* transform-style *
-* perspective *
+* rotateY
+* backdrop-filter
+* transform-style
+* perspective
 
 
 
