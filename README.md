@@ -51,11 +51,12 @@
 * [Dia 01 - Ícone de mídia social em camadas](#dia01)
 * [Dia 02 - Botão animado Neon](#dia02)
 * [Dia 03 - Olhos que segue o mouse](#dia03)
-* [Dia 04 -Efeito pulsar](#dia04)
-* [Dia 05 -Efeito lightning text](#dia05)
-* [Dia 06 -Máquina de Escrever](#dia06)
-* [Dia 07 -Coração batendo](#dia07)
-* [Dia 08 -Botão com efeito Hover](#dia08)
+* [Dia 04 - Efeito pulsar](#dia04)
+* [Dia 05 - Efeito lightning text](#dia05)
+* [Dia 06 - Máquina de Escrever](#dia06)
+* [Dia 07 - Coração batendo](#dia07)
+* [Dia 08 - Botão com efeito Hover](#dia08)
+* [Dia 09 - Cartão de crédito 3D](#dia09)
 
 </div>
 
@@ -185,6 +186,24 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[Overflow](https://www.w3schools.com/css/css_overflow.asp)* 
 * *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
 * *[z-index](https://www.w3schools.com/cssref/pr_pos_z-index.asp)*
+
+##  Desafio dia 09 - Cartão de crédito 3D <a name="dia09"></a>
+![gif (3)](https://j.gifs.com/Gv18jL.gif)
+
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2009)
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[Overflow](https://www.w3schools.com/css/css_overflow.asp)* 
+* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
+* *[z-index](https://www.w3schools.com/cssref/pr_pos_z-index.asp)*
+
+
 
 
 </div>
