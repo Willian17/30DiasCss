@@ -55,6 +55,7 @@
 * [Dia 05 -Efeito lightning text](#dia05)
 * [Dia 06 -Máquina de Escrever](#dia06)
 * [Dia 07 -Coração batendo](#dia07)
+* [Dia 08 -Botão com efeito Hover](#dia08)
 
 </div>
 
@@ -168,6 +169,23 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[scale](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform-function/scale())*
+
+##  Desafio dia 08 - Botão com efeito hover <a name="dia08"></a>
+![gif (3)](https://user-images.githubusercontent.com/37448340/88915715-29897880-d23b-11ea-9f58-8fe93214d3cc.gif)
+
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2008)
+
+[Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6753407537531379712-rTy4)
+
+##### O que eu aprendi
+
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[Overflow](https://www.w3schools.com/css/css_overflow.asp)* 
+* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
+* *[z-index](https://www.w3schools.com/cssref/pr_pos_z-index.asp)*
+
 
 </div>
 
