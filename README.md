@@ -58,6 +58,7 @@
 * [Dia 08 - Botão com efeito Hover](#dia08)
 * [Dia 09 - Cartão de crédito 3D](#dia09)
 * [Dia 10 - Copo de Café](#dia10)
+* [Dia 11 - Pendulo de Newton](#dia11)
 
 </div>
 
@@ -217,6 +218,23 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * translate
 * filter
 * animation
+
+##  Desafio dia 11 - Pendulo de Newton <a name="dia11"></a>
+![gif (1)](https://user-images.githubusercontent.com/37448340/88670759-d76e1900-d0bb-11ea-8158-edf1cdf41b97.gif)
+
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2011)
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[first-child](https://www.w3schools.com/cssref/sel_firstchild.asp)*
+* *[last-child](https://www.w3schools.com/cssref/sel_last-child.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)*
 
 
 </div>
