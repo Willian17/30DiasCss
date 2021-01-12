@@ -59,6 +59,7 @@
 * [Dia 09 - Cartão de crédito 3D](#dia09)
 * [Dia 10 - Copo de Café](#dia10)
 * [Dia 11 - Pendulo de Newton](#dia11)
+* [Dia 12 - Efeito de preenchimento](#dia12)
 
 </div>
 
@@ -235,6 +236,19 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[last-child](https://www.w3schools.com/cssref/sel_last-child.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)*
+
+##  Desafio dia 12 - Efeito de preenchimento <a name="dia12"></a>
+![gif (4)](https://user-images.githubusercontent.com/37448340/89034283-05976700-d30f-11ea-983f-5b0171212a2a.gif)
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2011)
+
+[Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6754849915861508096-H90F)
+
+##### O que eu aprendi
+
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
 
 
 </div>
