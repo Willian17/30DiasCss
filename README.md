@@ -261,9 +261,10 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 
 ##### O que eu aprendi
 
-* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
-* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
-* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
+* *[Stroke ](https://css-tricks.com/almanac/properties/s/stroke/)*
+* *[Cubic-Bezier ](https://www.w3schools.com/cssref/tryit.asp?filename=trycss_func_cubic-bezier)*
+* *[Transition-Delay ](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transition-delay)*
+* *[Animation-Name ](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-name)*
 
 
 </div>
