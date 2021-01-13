@@ -240,9 +240,23 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ##  Desafio dia 12 - Efeito de preenchimento <a name="dia12"></a>
 ![gif (4)](https://user-images.githubusercontent.com/37448340/89034283-05976700-d30f-11ea-983f-5b0171212a2a.gif)
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2011)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2012)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6754849915861508096-H90F)
+
+##### O que eu aprendi
+
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
+
+
+##  Desafio dia 13 - Todo List <a name="dia13"></a>
+![gif (4)](https://j.gifs.com/r8jppp.gif)
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2013)
+
+[Post LinkedIn]()
 
 ##### O que eu aprendi
 
