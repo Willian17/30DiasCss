@@ -60,6 +60,7 @@
 * [Dia 10 - Copo de Café](#dia10)
 * [Dia 11 - Pendulo de Newton](#dia11)
 * [Dia 12 - Efeito de preenchimento](#dia12)
+* [Dia 13 - Todo List Animado](#dia13)
 
 </div>
 
@@ -251,7 +252,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
 
 
-##  Desafio dia 13 - Todo List <a name="dia13"></a>
+##  Desafio dia 13 - Todo List Animado <a name="dia13"></a>
 ![gif (4)](https://j.gifs.com/r8jppp.gif)
 
 [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2013)
