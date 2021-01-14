@@ -267,7 +267,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[Transition-Delay ](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transition-delay)*
 * *[Animation-Name ](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-name)*
 
-##  Desafio dia 14 - Shadow Gradient <a name="dia13"></a>
+##  Desafio dia 14 - Shadow Gradient <a name="dia14"></a>
 ![gif (4)](https://j.gifs.com/mO1VZR.gif)
 
 [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2014)
