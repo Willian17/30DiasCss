@@ -61,6 +61,7 @@
 * [Dia 11 - Pendulo de Newton](#dia11)
 * [Dia 12 - Efeito de preenchimento](#dia12)
 * [Dia 13 - Todo List Animado](#dia13)
+* [Dia 14 - Shadow Gradient](#dia14)
 
 </div>
 
@@ -265,6 +266,20 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[Cubic-Bezier ](https://www.w3schools.com/cssref/tryit.asp?filename=trycss_func_cubic-bezier)*
 * *[Transition-Delay ](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transition-delay)*
 * *[Animation-Name ](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-name)*
+
+##  Desafio dia 14 - Shadow Gradient <a name="dia13"></a>
+![gif (4)](https://j.gifs.com/mO1VZR.gif)
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2014)
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+* *[linear-gradient ](https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient())*
+* *[background-size ](https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-size)*
+* *[background-position ](https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-position)*
+* *[blur() ](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/blur())*
 
 
 </div>
