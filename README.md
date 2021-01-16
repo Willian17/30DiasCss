@@ -63,7 +63,7 @@
 * [Dia 13 - Todo List Animado](#dia13)
 * [Dia 14 - Shadow Gradient](#dia14)
 * [Dia 15 - Texto Saltando](#dia15)
-* [Dia 15 - Efeito Escalar](#dia16)
+* [Dia 16 - Efeito Escalar](#dia16)
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
