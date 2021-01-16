@@ -295,7 +295,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[text-shadow ](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-shadow)*
 
 ##  Desafio dia 16 - Efeito Escalar <a name="dia16"></a>
-![gif (16)](https://j.gifs.com/q7gkmR.gif)
+![gif (4)](https://j.gifs.com/OMmRAE.gif)
 
 [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2016)
 
