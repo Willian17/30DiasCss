@@ -62,8 +62,8 @@
 * [Dia 12 - Efeito de preenchimento](#dia12)
 * [Dia 13 - Todo List Animado](#dia13)
 * [Dia 14 - Shadow Gradient](#dia14)
-* [Dia 14 - Texto Saltando](#dia15)
-
+* [Dia 15 - Texto Saltando](#dia15)
+* [Dia 15 - Efeito Escalar](#dia16)
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
@@ -287,13 +287,25 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 
 [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2015)
 
-[Post LinkedIn]()
+[Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6755971748912496640-2ZHn)
 
 ##### O que eu aprendi
 
 * *[display: table-cell ](https://developer.mozilla.org/pt-BR/docs/Web/CSS/display)*
 * *[text-shadow ](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-shadow)*
 
+##  Desafio dia 16 - Efeito Escalar <a name="dia16"></a>
+![gif (4)](https://j.gifs.com/XLy9Rk.gif)
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2016)
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+* *[box-shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow)*
+* *[-webkit-box-reflect](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-box-reflect)*
+* *[transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)*
 
 </div>
 
