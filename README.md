@@ -308,7 +308,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[-webkit-box-reflect](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-box-reflect)*
 * *[transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)*
 
-##  Desafio dia 17 - Efeito Escalar <a name="dia17"></a>
+##  Desafio dia 17 - Cards 3D <a name="dia17"></a>
 ![Dia17](https://user-images.githubusercontent.com/53010824/104850715-20629580-58c7-11eb-9c3a-68d80a8d2348.gif)
 
 [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2017)
