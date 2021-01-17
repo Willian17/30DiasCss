@@ -64,6 +64,7 @@
 * [Dia 14 - Shadow Gradient](#dia14)
 * [Dia 15 - Texto Saltando](#dia15)
 * [Dia 16 - Efeito Escalar](#dia16)
+* [Dia 17 - Cards 3D](#dia17)
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
@@ -306,6 +307,19 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[box-shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow)*
 * *[-webkit-box-reflect](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-box-reflect)*
 * *[transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)*
+
+##  Desafio dia 17 - Efeito Escalar <a name="dia17"></a>
+![Dia17](https://user-images.githubusercontent.com/53010824/104850715-20629580-58c7-11eb-9c3a-68d80a8d2348.gif)
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2017)
+
+[Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6756620504171331584-TmBy)
+
+##### O que eu aprendi
+
+* *[box-shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow)*
+* *[transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)*
+* *[translateZ](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translateZ())*
 
 </div>
 
