@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+   width: 100%;
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-family: "Montserrat", sans-serif;
+   color: #fff;
+   font-size: 16px;
+   background-color: #333333;
+   overflow: hidden;
+}
+
+.container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 30px;
+    cursor: default;
+}
+
+.card{
+    position: relative;
+    overflow: hidden;
+    width: 23%;
+    height: 480px;
+    padding: 15px;
+    border-radius: 20px;
+    background-image: linear-gradient(135deg, #ff677d 10%, #cd6684 100%);
+    box-shadow: 0 3px 25px #ff677d;
+    transform-style: preserve-3d;
+    transform: perspective(1000px);
+    display: flex;
+    flex-flow: column;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+}
+
+.card .shoe-container{
+    height: 150px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card .shoe-container .shoe{
+    height: auto;
+    max-width: 100%;
+    transform: translateZ(50px);
+    max-height: 145px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.card .category{
+    transform: translateZ(30px);
+    font-weight: bolder;
+    font-size: 24px;
+    text-shadow: 0 2px 20px rgba(0, 0, 0, 0.5);
+    align-self: flex-start;
+}
+
+.card .category .sub-head{
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.35);
+    margin-bottom: 2px;
+}
+
+.card .description{
+    transform: translateZ(25px);
+    text-align: justify;
+    text-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
+}
+
+.card a{
+    text-decoration: none;
+    border: 0;
+    outline: 0;
+}
+
+.card a .read-more{
+    text-decoration: none;
+    border: 0;
+    outline: 0;
+    height: 40px;
+    padding: 10px 25px;
+    border-radius: 50px;
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.35);
+}
+
+.card a .read-more:hover{
+    cursor: pointer;
+}
+
+body .js-tilt-glare{
+    pointer-events: none;
+}
+
