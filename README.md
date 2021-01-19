@@ -66,6 +66,7 @@
 * [Dia 16 - Efeito Escalar](#dia16)
 * [Dia 17 - Cards 3D](#dia17)
 * [Dia 18 - Texto esfumaçado](#dia18)
+* [Dia 19 - Texto esfumaçado](#dia19)
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
