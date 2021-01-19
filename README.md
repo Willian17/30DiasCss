@@ -65,6 +65,7 @@
 * [Dia 15 - Texto Saltando](#dia15)
 * [Dia 16 - Efeito Escalar](#dia16)
 * [Dia 17 - Cards 3D](#dia17)
+* [Dia 18 - Texto esfumaçado](#dia18)
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
@@ -320,6 +321,19 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[box-shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow)*
 * *[transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)*
 * *[translateZ](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translateZ())*
+
+##  Desafio dia 18 - Texto esfumaçado<a name="dia18"></a>
+![gif (9)](https://user-images.githubusercontent.com/37448340/89602896-2a736900-d83e-11ea-83d1-ddf210064771.gif)
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2018)
+
+[Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6757099317892280320-hrIW)
+
+##### O que eu aprendi
+
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
 
 </div>
 
