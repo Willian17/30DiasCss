@@ -335,6 +335,20 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
 
+##  Desafio dia 19 - Efeitos de animação fundo de partículas <a name="id19"></a>
+![gif (10)](https://user-images.githubusercontent.com/37448340/89700784-6b838000-d907-11ea-852b-d9b06fadd590.gif)
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2019)
+
+[Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6757405635882704896-aUgl)
+
+##### O que eu aprendi
+
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[variáveis CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties)*
+
 </div>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](##tecnologias)
