@@ -67,6 +67,7 @@
 * [Dia 17 - Cards 3D](#dia17)
 * [Dia 18 - Texto esfumaçado](#dia18)
 * [Dia 19 - Fundo de particulas](#dia19)
+* [Dia 20 - Botão com efeito](#dia19)
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
@@ -350,12 +351,12 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[variáveis CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties)*
 
-##  Desafio dia 20 - Botão com efeito <a name="id20"></a>
+##  Desafio dia 20 - Botão com efeito <a name="dia20"></a>
 ![gif (13)](https://user-images.githubusercontent.com/37448340/89723734-8837ba80-d9d0-11ea-92ee-3cecf1da1647.gif)
 
 [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2020)
 
-[Post LinkedIn]()
+[Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6757777072560713728-Nm27)
 
 ##### O que eu aprendi
 
