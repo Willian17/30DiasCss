@@ -67,7 +67,7 @@
 * [Dia 17 - Cards 3D](#dia17)
 * [Dia 18 - Texto esfumaçado](#dia18)
 * [Dia 19 - Fundo de particulas](#dia19)
-* [Dia 20 - Botão com efeito](#dia19)
+* [Dia 20 - Botão com efeito](#dia20)
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
