@@ -350,6 +350,20 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[variáveis CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties)*
 
+##  Desafio dia 20 - Botão com efeito <a name="id20"></a>
+![gif (13)](https://user-images.githubusercontent.com/37448340/89723734-8837ba80-d9d0-11ea-92ee-3cecf1da1647.gif)
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2020)
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+* *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+* *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
+
 </div>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](##tecnologias)
