@@ -371,7 +371,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 
 [Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2021)
 
-[Post LinkedIn]()
+[Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6758121106743300096-vFO3)
 
 ##### O que eu aprendi
 
