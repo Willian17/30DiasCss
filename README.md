@@ -68,6 +68,7 @@
 * [Dia 18 - Texto esfumaçado](#dia18)
 * [Dia 19 - Fundo de particulas](#dia19)
 * [Dia 20 - Botão com efeito](#dia20)
+* [Dia 21 - Esferas quicando](#dia21)
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
@@ -364,6 +365,20 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 * *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
+
+##  Desafio dia 21 - Esferas quicando <a name="dia21"></a>
+![gif (14)](https://user-images.githubusercontent.com/37448340/89748326-fd6ec280-da98-11ea-846f-cb7b68a1d777.gif)
+
+[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2021)
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
 
 </div>
 
