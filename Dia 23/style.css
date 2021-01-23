@@ -6,6 +6,10 @@ html{
     box-sizing: border-box;
 }
 
+body{
+    background-color: #f3f326;
+}
+
 .container{
     width: max-content;
     height: max-content;
