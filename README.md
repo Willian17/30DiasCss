@@ -70,6 +70,7 @@
 * [Dia 20 - Botão com efeito](#dia20)
 * [Dia 21 - Esferas quicando](#dia21)
 * [Dia 22 - Icones com efeito](#dia22)
+* [Dia 23 - Boneco do Among Us](#dia23)
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
@@ -395,6 +396,19 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
+##  Desafio dia 23 - Icones com efeito <a name="dia22"></a>
+![image](https://user-images.githubusercontent.com/53010824/105608121-75dfec00-5d78-11eb-8b6f-f9c131e343f6.png)
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2023)
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)*
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[max-content ](https://developer.mozilla.org/en-US/docs/Web/CSS/max-content)*
 
 
 </div>
