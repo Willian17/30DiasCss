@@ -80,7 +80,7 @@
   ### Dia 01 - Ícone de mídia social em camadas <a name="dia01"></a>
   ![Dia 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
   
-  [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2001)
+  [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2001)
 
   [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6750831303878311936-HUUl) 
   
@@ -117,7 +117,7 @@
  
  <img src='https://j.gifs.com/jZzDyW.gif'></img>
   
-  [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2003)
+  [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2003)
 
   [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6751566035834417152-DJ8Q) 
   
@@ -133,7 +133,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ##  Desafio dia 04 - Efeito pulsar <a name="dia04"></a>
 ![dia 04](https://user-images.githubusercontent.com/37448340/88354131-4d7a2500-cd36-11ea-800e-eec277f17737.gif)
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2004)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2004)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6751828438295814144-5RCI)
 
@@ -146,7 +146,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ![dia 05](https://user-images.githubusercontent.com/37448340/88449709-5d216880-ce1f-11ea-924b-18acde214ce9.gif)
 
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2005)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2005)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6752330902912675840-xbFR)
 
@@ -159,7 +159,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ##  Desafio dia 06 - Máquina de Escrever <a name="dia06"></a>
 ![dia 05](https://j.gifs.com/oVGpqY.gif)
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2006)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2006)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6752714999006801920-_T2U)
 
@@ -173,7 +173,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ![gif](https://user-images.githubusercontent.com/37448340/88534017-9c95b380-cfdd-11ea-9b54-b883fd9f9e77.gif)
 
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2007)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2007)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6753060332744269825-ri23)
 
@@ -188,7 +188,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ![gif (3)](https://user-images.githubusercontent.com/37448340/88915715-29897880-d23b-11ea-9f58-8fe93214d3cc.gif)
 
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2008)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2008)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6753407537531379712-rTy4)
 
@@ -204,7 +204,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ![gif (3)](https://j.gifs.com/Gv18jL.gif)
 
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2009)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2009)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6753876876944519168-UA5g)
 
@@ -219,7 +219,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ![gif (3)](https://j.gifs.com/OMmE7N.gif)
 
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2010)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2010)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6754092851593789440-s2Xz)
 
@@ -234,7 +234,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ![gif (1)](https://user-images.githubusercontent.com/37448340/88670759-d76e1900-d0bb-11ea-8158-edf1cdf41b97.gif)
 
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2011)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2011)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6754496531115601920-gDGt)
 
@@ -250,7 +250,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ##  Desafio dia 12 - Efeito de preenchimento <a name="dia12"></a>
 ![gif (4)](https://user-images.githubusercontent.com/37448340/89034283-05976700-d30f-11ea-983f-5b0171212a2a.gif)
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2012)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2012)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6754849915861508096-H90F)
 
@@ -264,7 +264,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ##  Desafio dia 13 - Todo List Animado <a name="dia13"></a>
 ![gif (4)](https://j.gifs.com/r8jppp.gif)
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2013)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2013)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6755217386917371905-3G8J)
 
@@ -278,7 +278,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ##  Desafio dia 14 - Shadow Gradient <a name="dia14"></a>
 ![gif (4)](https://j.gifs.com/mO1VZR.gif)
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2014)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2014)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6755576489372094465-GWuS)
 
@@ -292,7 +292,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ##  Desafio dia 15 - Texto Saltando <a name="dia15"></a>
 ![gif (4)](https://j.gifs.com/OMmRAE.gif)
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2015)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2015)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6755971748912496640-2ZHn)
 
@@ -304,7 +304,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ##  Desafio dia 16 - Efeito Escalar <a name="dia16"></a>
 ![Dia16](https://user-images.githubusercontent.com/53010824/104818782-20e42900-5800-11eb-93e7-43f54bd815f6.gif)
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2016)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2016)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6756264287230033920-1ujI)
 
@@ -317,7 +317,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ##  Desafio dia 17 - Cards 3D <a name="dia17"></a>
 ![Dia17](https://user-images.githubusercontent.com/53010824/104850715-20629580-58c7-11eb-9c3a-68d80a8d2348.gif)
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2017)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2017)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6756620504171331584-TmBy)
 
@@ -330,7 +330,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ##  Desafio dia 18 - Texto esfumaçado<a name="dia18"></a>
 ![gif (9)](https://user-images.githubusercontent.com/37448340/89602896-2a736900-d83e-11ea-83d1-ddf210064771.gif)
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2018)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2018)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6757099317892280320-hrIW)
 
@@ -343,7 +343,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ##  Desafio dia 19 - Efeitos de animação fundo de partículas <a name="dia19"></a>
 ![gif (10)](https://user-images.githubusercontent.com/37448340/89700784-6b838000-d907-11ea-852b-d9b06fadd590.gif)
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2019)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2019)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6757405635882704896-aUgl)
 
@@ -357,7 +357,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ##  Desafio dia 20 - Botão com efeito <a name="dia20"></a>
 ![gif (13)](https://user-images.githubusercontent.com/37448340/89723734-8837ba80-d9d0-11ea-92ee-3cecf1da1647.gif)
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2020)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2020)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6757777072560713728-Nm27)
 
@@ -371,7 +371,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ##  Desafio dia 21 - Esferas quicando <a name="dia21"></a>
 ![gif (14)](https://user-images.githubusercontent.com/37448340/89748326-fd6ec280-da98-11ea-846f-cb7b68a1d777.gif)
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2021)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2021)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6758121106743300096-vFO3)
 
@@ -384,7 +384,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ##  Desafio dia 22 - Icones com efeito <a name="dia22"></a>
 ![gif (15)](https://user-images.githubusercontent.com/37448340/89851135-2a3adc80-db62-11ea-8b59-c76672f08e0b.gif)
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2022)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2022)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6758479568690008064-YxZK)
 
@@ -399,7 +399,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ##  Desafio dia 23 - Boneco do Among Us <a name="dia23"></a>
 ![image](https://user-images.githubusercontent.com/53010824/105608121-75dfec00-5d78-11eb-8b6f-f9c131e343f6.png)
 
-[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2023)
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2023)
 
 [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6758787712708317184-LmWV)
 
