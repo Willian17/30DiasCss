@@ -1,0 +1,115 @@
+html{
+    box-sizing: border-box;
+}
+
+*,*::after, *::before{
+    box-sizing: border-box;
+}
+
+.container{
+    width: max-content;
+    height: max-content;
+    margin: 50px auto 0 auto;
+    position: relative;
+}
+
+.header {
+    width: 400px;
+    height: 250px;
+    background-color: #ff0000;
+    border-top-left-radius: 35%;
+    border-top-right-radius: 60%;
+    border: 15px solid #000;
+    border-bottom: 0;
+}
+
+.body {
+    width: 400px;
+    height: 300px;
+    background-color: #ff0000;
+    border-right: 15px solid #000;
+    border-left: 15px solid #000;
+    position: relative;
+}
+
+.body::after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 150px;
+    background-color: #000;
+    width: 120px;
+    height: 15px;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    border-bottom-right-radius: 80%;
+    border-top-right-radius: 0;
+}
+
+.bag {
+    height: 330px;
+    width: 140px;
+    background-color: #ff0000;
+    position: absolute;
+    top: 200px;
+    left: -140px;
+    border: 15px solid #000;
+    border-right: 0;
+    border-top-left-radius: 45%;
+    border-bottom-left-radius: 45%;
+    z-index: -1;
+}
+
+.legs{
+    height: 150px;
+    width: 180px;
+    background-color: #ff0000;
+    border: 15px solid #000;
+    position: absolute;
+    border-top: 0;
+    border-bottom-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+}
+
+.legs--right{
+    right: 0;
+}
+
+.eye {
+    width: 320px;
+    height: 200px;
+    position: absolute;
+    top: 100px;
+    right: -35px;
+    border: 15px solid #000;
+    border-bottom-left-radius: 30%;
+    border-top-left-radius: 30%;
+    border-bottom-right-radius: 40%;
+    border-top-right-radius: 40%;
+    background-color: rgb(135, 206, 235);
+}
+
+.eye::before {
+    content: '';
+    position: absolute;
+    width: 150px;
+    height: 60px;
+    right: 25px;
+    top: 15px;
+    background-color: #fff;
+    border-radius: 45%;
+    transform: rotate(6deg);
+}
+
+.shadow {
+    width: 550px;
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 0 auto;
+    border-radius: 50%;
+    bottom: -250px;
+    left: -70px;
+    z-index: -1;
+    position: absolute;
+}
