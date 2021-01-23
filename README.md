@@ -396,7 +396,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[:hover](https://www.w3schools.com/cssref/sel_hover.asp)* 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
-##  Desafio dia 23 - Icones com efeito <a name="dia22"></a>
+##  Desafio dia 23 - Boneco do Among Us <a name="dia23"></a>
 ![image](https://user-images.githubusercontent.com/53010824/105608121-75dfec00-5d78-11eb-8b6f-f9c131e343f6.png)
 
 [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2023)
