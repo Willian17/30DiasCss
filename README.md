@@ -98,7 +98,7 @@
  
  <img src='https://j.gifs.com/YW1KL0.gif'></img>
   
-  [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/Dia%2002)
+  [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2002)
 
   [Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6751185583567060992-LQeR) 
   
