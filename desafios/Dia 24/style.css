@@ -1,0 +1,78 @@
+body{
+    background: rgb(14, 24, 41);
+}
+
+.icon-cards {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 200px;
+    height: 200px;
+    transform: translate(-50%, -50%);
+    perspective: 1000px;
+}
+
+.icon-cards-content{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transform: translateZ(-145px) rotateY(0);
+    animation: carousel 10s infinite cubic-bezier(1, 0.15, 0.295, 1.225) forwards;
+}
+
+.icon-cards-item{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 200px;
+    opacity: 1;
+    border-radius: 5px;
+}
+
+.icon-cards-item:nth-child(1){
+    transform: rotateY(72deg) translateZ(145px);
+    background: url('https://source.unsplash.com/random/350x350');
+}
+
+.icon-cards-item:nth-child(2){
+    transform: rotateY(144deg) translateZ(145px);
+    background: url('https://source.unsplash.com/random/350x351');
+}
+
+.icon-cards-item:nth-child(3){
+    transform: rotateY(216deg) translateZ(145px);
+    background: url('https://source.unsplash.com/random/350x352');
+}
+
+.icon-cards-item:nth-child(4){
+    transform: rotateY(288deg) translateZ(145px);
+    background: url('https://source.unsplash.com/random/350x353');
+}
+
+.icon-cards-item:nth-child(5){
+    transform: rotateY(360deg) translateZ(145px);
+    background: url('https://source.unsplash.com/random/350x35');
+}
+
+@keyframes carousel {
+    0%, 15% {
+        transform: translateZ(-145px) rotateY(0);
+    }
+    25%, 40% {
+        transform: translateZ(-145px) rotateY(-72deg);
+    }
+    50%, 65% {
+        transform: translateZ(-145px) rotateY(-144deg);
+    }
+    75%, 90% {
+        transform: translateZ(-145px) rotateY(-216deg);
+    }
+   95%  {
+        transform: translateZ(-145px) rotateY(-295deg);
+    }
+   100%  {
+        transform: translateZ(-145px) rotateY(-360deg);
+    }
+}
