@@ -71,6 +71,7 @@
 * [Dia 21 - Esferas quicando](#dia21)
 * [Dia 22 - Icones com efeito](#dia22)
 * [Dia 23 - Boneco do Among Us](#dia23)
+* [Dia 23 - Carousel 3D](#dia24)
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
@@ -410,6 +411,19 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
 * *[max-content ](https://developer.mozilla.org/en-US/docs/Web/CSS/max-content)*
 
+##  Desafio dia 24 - Carousel 3D <a name="dia24"></a>
+![image](https://j.gifs.com/ZYkO6Q.gif)
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2024)
+
+[Post LinkedIn]()
+
+##### O que eu aprendi
+
+
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 
 </div>
 
