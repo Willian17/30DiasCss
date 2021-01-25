@@ -71,7 +71,8 @@
 * [Dia 21 - Esferas quicando](#dia21)
 * [Dia 22 - Icones com efeito](#dia22)
 * [Dia 23 - Boneco do Among Us](#dia23)
-* [Dia 23 - Carousel 3D](#dia24)
+* [Dia 24 - Carousel 3D](#dia24)
+* [Dia 25 - Checkbox Animado](#dia25)
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
