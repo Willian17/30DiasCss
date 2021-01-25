@@ -425,6 +425,17 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
 * *[transform](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 
+## Desafio dia 25 - checkbox animado <a name="dia25"></a>
+![gif (20)](https://user-images.githubusercontent.com/37448340/90207269-33bf8100-ddbc-11ea-9d30-e6cd44d2a120.gif)
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2025)
+
+[Post LinkedIn]()
+
+##### O que eu aprendi 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[hue-rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/hue-rotate())*
 </div>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](##tecnologias)
