@@ -73,6 +73,7 @@
 * [Dia 23 - Boneco do Among Us](#dia23)
 * [Dia 24 - Carousel 3D](#dia24)
 * [Dia 25 - Checkbox Animado](#dia25)
+* [Dia 26 - Loading com efeito](#dia26)
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
@@ -437,6 +438,18 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 * *[hue-rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/hue-rotate())*
+
+## Desafio dia 26 - Loading com efeito<a name="dia26"></a>
+![gif (21)](https://user-images.githubusercontent.com/37448340/90303547-1e625980-de85-11ea-82f9-b23d4fed96bc.gif)
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2026)
+
+[Post LinkedIn]()
+
+##### O que eu aprendi 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 </div>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](##tecnologias)
