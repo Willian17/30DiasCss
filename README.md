@@ -431,7 +431,7 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 
 [Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2025)
 
-[Post LinkedIn]()
+[Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6759626918326231041-mKbt)
 
 ##### O que eu aprendi 
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
