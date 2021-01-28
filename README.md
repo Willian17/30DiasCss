@@ -450,6 +450,18 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+## Desafio dia 27 - Efeito pulsar<a name="dia27"></a>
+![gif (22)](https://user-images.githubusercontent.com/37448340/90583617-fcc7e180-e1a6-11ea-904a-4cf74508b5a0.gif)
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2027)
+
+[Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6760380144495403008-aDMk)
+
+##### O que eu aprendi 
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 </div>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](##tecnologias)
