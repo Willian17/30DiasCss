@@ -74,6 +74,7 @@
 * [Dia 24 - Carousel 3D](#dia24)
 * [Dia 25 - Checkbox Animado](#dia25)
 * [Dia 26 - Loading com efeito](#dia26)
+* [Dia 27 - Efeito pulsar](#dia27)
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
