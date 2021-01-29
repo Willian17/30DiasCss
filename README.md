@@ -75,6 +75,7 @@
 * [Dia 25 - Checkbox Animado](#dia25)
 * [Dia 26 - Loading com efeito](#dia26)
 * [Dia 27 - Efeito pulsar](#dia27)
+* [Dia 28 - Cor do background mudando](#dia28)
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
@@ -462,6 +463,16 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 ##### O que eu aprendi 
 * *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+
+## Desafio dia 28 - cor do background mudando<a name="dia28"></a>
+![gif (23)](https://user-images.githubusercontent.com/37448340/90352994-61eecc00-e01b-11ea-90db-d0fabc5036ab.gif)
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2028)
+
+[Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6760756827245318144-q-Rd)
+
+##### O que eu aprendi 
 * *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 </div>
 
