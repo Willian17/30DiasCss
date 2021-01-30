@@ -77,6 +77,7 @@
 * [Dia 27 - Efeito pulsar](#dia27)
 * [Dia 28 - Cor do background mudando](#dia28)
 * [Dia 29 - Menu Responsivo](#dia29)
+* [Dia 30 - Fogos de artifício](#dia30)
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
@@ -485,6 +486,20 @@ https://github.com/Willian17/30DiasCss/tree/master/Dia%2004
 
 ##### O que eu aprendi 
 * *[@media](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@media)*
+
+## Desafio dia 30 - Fogos de artificio<a name="dia30"></a>
+![gif (25)](https://user-images.githubusercontent.com/37448340/90583437-85924d80-e1a6-11ea-98ad-db4fbf5f0739.gif)
+
+[Meu codigo](https://github.com/Willian17/30DiasCss/tree/master/desafios/Dia%2030)
+
+[Post LinkedIn](https://www.linkedin.com/posts/willian-fernandes_30diasdecss-html-html5-activity-6761321208261709825-LgOv)
+
+##### O que eu aprendi 
+
+* *[nth-child ()](https://www.w3schools.com/cssref/sel_nth-child.asp)*
+* *[::before](https://www.w3schools.com/cssref/sel_before.asp)* 
+* *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
 
 </div>
 
